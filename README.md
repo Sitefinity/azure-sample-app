@@ -27,9 +27,9 @@ To run the app, just click the below "Deploy to Azure" button.
 
 ## Sitefinity site and documentation
 
-Product site - https://sitefinity.com/
+Product site - https://www.progress.com/sitefinity-cms
 
-Documentation - https://docs.sitefinity.com/
+Documentation - https://www.progress.com/documentation/sitefinity-cms
 
 
 
