@@ -880,6 +880,7 @@
     <Content Include="AdminApp\favicon.ico" />
     <Content Include="AdminApp\index.html" />
     <Content Include="AdminApp\vendors.6c82506baee89e20cfef.bundle.js" />
+    <Content Include="App_Data\appStatusReport.html" />
     <Content Include="App_Data\GeoLocation\citieslist.txt" />
     <Content Include="App_Data\RadCaptcha\0.wav" />
     <Content Include="App_Data\RadCaptcha\1.wav" />
