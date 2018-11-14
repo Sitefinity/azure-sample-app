@@ -85,8 +85,8 @@
           "properties": {
             "edition": "Standard",
             "collation": "SQL_Latin1_General_CP1_CI_AS",
-            "maxSizeBytes": "268435456000",
-            "requestedServiceObjectiveId": "f1173c43-91bd-4aaa-973c-54e79e15235b"
+            "maxSizeBytes": "21474836480", 
+            "requestedServiceObjectiveId": "455330e1-00cd-488b-b5fa-177c226f28b7"
           }
         },
         {
