@@ -1075,7 +1075,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
-    <Compile Include="AzureWebRole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1288,7 +1287,7 @@
       </AdminAppFiles>
       <DecExtensions Include="..\packages\Progress.Sitefinity.Dec.Iris.Extension.11.0.5\content\**\*.*">
       </DecExtensions>
-      <AppData Include="..\packages\Telerik.Sitefinity.All.12.0.7000\content\**\*.*">
+      <AppData Include="..\packages\Progress.Sitefinity.12.0.7000\content\**\*.*">
       </AppData>
       <Feather Include="..\packages\Telerik.Sitefinity.Feather.12.0.7000\content\**\*.*">
       </Feather>
