@@ -3,4 +3,4 @@ The terms of the “Trial” license (set forth in the Sitefinity EULA available
 applies unless you have obtained a commercial license in which case your use of the Sitefinity Web App is subject to the same terms which
 govern your use of Sitefinity.
 
-Copyright © 2019 Progress Software Corporation and/or one of its subsidiaries or affiliates. All rights reserved.
+Copyright © 2020 Progress Software Corporation and/or one of its subsidiaries or affiliates. All rights reserved.
