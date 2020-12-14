@@ -23,7 +23,7 @@ To run the app:
 
 To run the app, just click the below "Deploy to Azure" button.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSitefinity%2Fazure-sample-app%2Fv.13.2%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSitefinity%2Fazure-sample-app%2Fmaster%2Fazuredeploy.json)
 
 ## Sitefinity site and documentation
 
