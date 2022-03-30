@@ -1,0 +1,14 @@
+/packages
+/SitefinityWebApp/bin
+/SitefinityWebApp/obj
+/.vs
+/SitefinityWebApp/AdminApp
+/SitefinityWebApp/App_Data
+!/SitefinityWebApp/App_Data/appStatusReport.html
+/SitefinityWebApp/AzureWebRole.cs
+/SitefinityWebApp/Default.aspx
+/SitefinityWebApp/Mvc
+/SitefinityWebApp/ResourcePackages
+/SitefinityWebApp/Sitefinity/
+/SitefinityWebApp/SampleTemplate.cshtml
+/SitefinityWebApp/SitefinityWebApp.csproj.user
