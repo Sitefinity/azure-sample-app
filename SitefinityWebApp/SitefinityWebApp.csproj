@@ -1499,7 +1499,7 @@
   <Import Project="..\packages\RazorGenerator.MsBuild.2.4.1\build\RazorGenerator.MsBuild.targets" Condition="Exists('..\packages\RazorGenerator.MsBuild.2.4.1\build\RazorGenerator.MsBuild.targets')" />
   <Target Name="BeforeBuild">
     <ItemGroup>
-      <AdminAppFiles Include="..\packages\Progress.Sitefinity.AdminApp.14.1.7800.106256\content\**\*.*">
+      <AdminAppFiles Include="..\packages\Progress.Sitefinity.AdminApp.14.1.7800.182200\content\**\*.*">
       </AdminAppFiles>
       <AppData Include="..\packages\Progress.Sitefinity.14.1.7800\content\**\*.*">
       </AppData>
