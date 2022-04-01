@@ -142,7 +142,7 @@
           ],
           "properties": {
             "RepoUrl": "https://github.com/Sitefinity/azure-sample-app",
-            "branch": "v.14.1",
+            "branch": "master",
             "IsManualIntegration": true
           }
         },
